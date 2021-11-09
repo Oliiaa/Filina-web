@@ -206,17 +206,6 @@ body {
     opacity: 0.5;
 }
 
-.picc1 {
-    width: 590px;
-    height: 411px;
-    left: -212px;
-    top: -19px;
-    background: url(images/Bitmap.svj);
-    mix-blend-mode: normal;
-    opacity: 0.3;
-}
-
-
 #mail {
     height: 35px;
     width: 55px;
